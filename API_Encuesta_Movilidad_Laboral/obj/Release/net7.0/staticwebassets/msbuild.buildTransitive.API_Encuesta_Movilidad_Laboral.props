@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\API_Encuesta_Movilidad_Laboral.props" />
+</Project>

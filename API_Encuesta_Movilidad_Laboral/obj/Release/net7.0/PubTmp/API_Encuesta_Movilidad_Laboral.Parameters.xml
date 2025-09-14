@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="APIEncuestaMovilidadLaboral20231021092339" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\Pabu\\Documents\\Aiep2023\\Cuarto\ Semestre\\Taller\ Programacion\ Movil\ y\ Testing\\API_Encuesta_Movilidad_Laboral\\API_Encuesta_Movilidad_Laboral\\obj\\Release\\net7\.0\\PubTmp\\Out\\$" />
+  </parameter>
+</parameters>
