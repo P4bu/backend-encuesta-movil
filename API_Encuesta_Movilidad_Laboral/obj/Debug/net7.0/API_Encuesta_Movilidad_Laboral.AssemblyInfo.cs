@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("API_Encuesta_Movilidad_Laboral")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+74930cf297a65b243fdb46c4dc4910fa3dd18154")]
 [assembly: System.Reflection.AssemblyProductAttribute("API_Encuesta_Movilidad_Laboral")]
 [assembly: System.Reflection.AssemblyTitleAttribute("API_Encuesta_Movilidad_Laboral")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
